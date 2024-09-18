@@ -1,22 +1,15 @@
 #include <stdio.h>
 
-// Function declarations
-void exampleFunction();
-
-// Main function
 int main() {
-    // Print a welcome message
-    printf("Hello, World!\n");
 
-    // Call an example function
-    exampleFunction();
+    int integer_variable_one;
+    int integer_variable_two;
 
-    // Return 0 to indicate successful execution
-    return 0;
-}
+    printf("\n");
 
-// Example function definition
-void exampleFunction() {
-    // Print a message from the example function
-    printf("This is an example function.\n");
+    
+
+    printf("\n");
+
+return 0;
 }
