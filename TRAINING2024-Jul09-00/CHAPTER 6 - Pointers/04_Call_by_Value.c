@@ -1,10 +1,14 @@
 #include <stdio.h>
 
-int make_addition(int , int);
+int make_addition(int , int );
+
+
 
 int make_addition(int integer_variable_one, int integer_variable_two){
 
     int addition;
+
+    integer_variable_one = 20;
 
     addition = integer_variable_one + integer_variable_two;
 
