@@ -2,14 +2,13 @@
 
 int main() {
 
-    int integer_variable_one;
-    int integer_variable_two;
+    int integer_variable_one, integer_variable_two;
 
-    printf("\n");
+printf("\n");
 
     
 
-    printf("\n");
+printf("\n");
 
 return 0;
 }
