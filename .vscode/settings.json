@@ -1,6 +1,10 @@
 {
     "files.associations": {
         "stdio.h": "c",
-        "limits": "c"
-    }
+        "limits": "c",
+        "atomic": "c",
+        "algorithm": "c",
+        "vector": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }

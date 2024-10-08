@@ -1,0 +1,1 @@
+Write a program which return a vaule from main.
