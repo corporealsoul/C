@@ -4,7 +4,11 @@
         "limits": "c",
         "atomic": "c",
         "algorithm": "c",
-        "vector": "c"
+        "vector": "c",
+        "array": "c",
+        "deque": "c",
+        "string": "c",
+        "iterator": "c"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
