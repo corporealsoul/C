@@ -4,6 +4,7 @@
 
 */
 
+
 #include<stdio.h>
 
 int main()
@@ -16,10 +17,16 @@ printf("\n");
 
     for (row_loop = 0; row_loop < row; row_loop++)
     {
-        for (colomn_loop = 0; colomn_loop <= row_loop; colomn_loop++)
+        for (colomn_loop = 0; colomn_loop < colomn; colomn_loop++)
         {
-            printf("%d ", count);
-            count ++;
+            if (colomn_loop <= row_loop)
+            {
+                printf("%d ", count);
+            }
+            else
+            {
+                printf("  ");
+            }
         }
         printf("\n");
     }
