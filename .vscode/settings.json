@@ -23,7 +23,14 @@
         "LO07_PRI.C": "cpp",
         "GEMINILO07_PRI.C": "cpp",
         "GEMINILO03_Swapping.C": "cpp",
-        "IMM_13.C": "cpp"
+        "IMM_13.C": "cpp",
+        "random": "c",
+        "string.h": "c",
+        "functional": "c",
+        "system_error": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }

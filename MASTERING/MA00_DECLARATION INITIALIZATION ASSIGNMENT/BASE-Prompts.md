@@ -1,0 +1,1 @@
+Explain Declation, Defination, Initialization and Assignment of an array in C language.
