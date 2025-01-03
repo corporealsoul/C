@@ -1,5 +1,7 @@
-PS D:\GITRepos\c> git config --global user.email "bca.anup@gmail.com"
-PS D:\GITRepos\c> git config --global user.name "Anup Kumar Mondal"
+# GIT-Managed
+
+PS D:\GITRepos\c>  git config --global user.email "bca.anup@gmail.com"
+PS D:\GITRepos\c>  git config --global user.name "Anup Kumar Mondal"
 
 PS D:\GITRepos\c>  git status
 PS D:\GITRepos\c>  git add .
