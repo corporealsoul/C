@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1736618307 source:d:\gitrepos\c\training2018-feb19-00\15_variable-modifiers-static\15_variable-modifiers-static.c
+
+1736618249 source:d:\gitrepos\c\training2018-feb19-00\15_variable-modifiers-static\main.c
+	<stdio.h>
+	<stdlib.h>
+

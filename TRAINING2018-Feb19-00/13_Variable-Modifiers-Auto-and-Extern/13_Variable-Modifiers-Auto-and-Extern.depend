@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1736614369 source:d:\gitrepos\c\training2018-feb19-00\13_variable-modifiers-auto-and-extern\13_variable-modifiers-auto-and-extern.c
+
+1736612781 source:d:\gitrepos\c\training2018-feb19-00\13_variable-modifiers-auto-and-extern\main.c
+	<stdio.h>
+

@@ -1,1 +1,1 @@
-// It's done on main.c and variable.c
+// CodeBlock Project
