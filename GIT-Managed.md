@@ -8,4 +8,4 @@ PS D:\GITRepos\c>  git add .
 PS D:\GITRepos\c>  git status
 
 PS D:\GITRepos\c>  git commit -m "TRAINING2018-Feb19-00"
-PS D:\GITRepos\c>  git push
+PS D:\GITRepos\c>  git push origin main
