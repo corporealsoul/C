@@ -22,11 +22,14 @@ return 0;
 
 int primeFunction(int outerLoop){
 	int inerLoop, primeFlag = 1;
+
 	for (inerLoop = 2; inerLoop <= outerLoop / 2; inerLoop++) {
+
 		if (outerLoop % inerLoop == 0) {
 			primeFlag = 0;
 			break;
 		}
 	}
+	
 	return primeFlag;
 }
