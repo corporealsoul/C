@@ -1,0 +1,40 @@
+Terminology	                            Example	                            Description
+
+Semicolon	                            ;	                                Used to terminate a statement.
+Escape sequence	                        \n, \t	                            Represents special characters in strings.
+Header file	                            #include<stdio.h>	                Contains predefined functions and macros.
+Variable	                            int x;	                            Stores data that can change during program execution.
+Literal	                                10, 'A', "Hi"	                    Fixed values directly used in code.
+Token	                                Keywords, operators...	            Smallest unit in C: includes keywords, identifiers, constants, operators, etc.
+Identifier	                            x, sum, total	                    Name given to variables, functions, arrays, etc.
+Constant	                            const int x = 5;	                Value that cannot be changed after initialization.
+Character constant                                                          Single Digit
+Format specifier	                    %d, %f, %c	                        Used in input/output functions to specify data types.
+Data type	                            int, float, char	                Specifies the type of data a variable can hold.
+Keyword	                                int, return, if	                    Reserved words with special meaning in C.
+Operator	                            +, -, *, ==	                        Symbols that perform operations on variables and values.
+Function	                            main(), printf()	                A block of code that performs a specific task.
+Pointer	                                int *ptr;	                        A variable that stores the memory address of another variable.
+Array	                                int a[10];	                        Collection of elements of the same type stored in contiguous memory.
+Structure	                            struct Student {}	                User-defined data type that groups related variables of different types.
+Union	                                union Data {}	                    Like structure, but uses shared memory for all members.
+Enum (Enumeration)	                    enum days {Mon, Tue}	            A user-defined type for assigning names to integer constants.
+Loop	                                for, while, do	                    Used to execute a block of code repeatedly.
+Conditional statement	                if, else, switch	                Directs program flow based on conditions.
+Break statement	                        break;	                            Terminates a loop or switch statement early.
+Continue statement	                    continue;	                        Skips the current iteration of a loop.
+Goto statement	                        goto label;	                        Transfers control to a labeled statement. (Rarely used; not recommended.)
+Recursion	                                                                Function calling itself	Technique where a function calls itself.
+Storage class	                        auto, static	                    Defines the scope, visibility, and lifetime of a variable.
+Type casting	                        (float) a	                        Converts one data type to another explicitly.
+Preprocessor directive	                #define PI 3.14	                    Instructions processed before compilation.
+Macros	                                #define MAX 100	                    Replaces code at compile time using symbolic constants.
+Library function	                    printf(), scanf()	                Predefined functions provided by C libraries.
+User-defined function	                void greet() {...}	                Functions written by the programmer to perform custom tasks.
+File handling	                        fopen(), fread()	                Used to read/write data to files.
+Command-line arguments	                int main(int argc, char *argv[])	Used to pass input from terminal to a C program.
+Dynamic memory allocation	            malloc(), free()	                Allocates memory at runtime.
+String	                                "Hello"	                            Array of characters ending with a null character \0.
+Null character	                        \0	                                Terminates a string in C.
+Inline comments	                        // comment	                        Single-line comment in C.
+Block comments	                        /* comment */	                    Multi-line comment in C.
