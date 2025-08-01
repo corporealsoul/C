@@ -9,7 +9,6 @@ int main() {
     }
     printf("The sum : %d", NUMBER);
 
-
     printf("\n");
     return 0;
 }
